@@ -30,8 +30,8 @@ animation: textani 3s forwards;
 }
 
 @keyframes textani{
-0% {font-size: 5 px};
-100% {font-size: 50 px}';
+0% {font-size: 5px};
+100% {font-size: 50px}';
 }
 
 
